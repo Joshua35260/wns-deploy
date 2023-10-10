@@ -1,0 +1,2 @@
+172.19.0.1 - - [10/Oct/2023:13:17:58 +0000] "GET / HTTP/1.1" 500 579 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60"
+172.19.0.1 - - [10/Oct/2023:13:17:58 +0000] "GET /favicon.ico HTTP/1.1" 500 579 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60"
